@@ -1,6 +1,6 @@
 <!-- HEARER -->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=147&height=190&section=header&text=Oleg%20Moishevych&desc=frontend%20developer&animation=fadeIn&fontColor=fff&fontSize=60&fontAlign=20&fontAlignY=44&descSize=18&descAlign=10.5&descAlignY=17"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=147&height=190&section=header&text=Oleg%20Moishevych&desc=frontend%20developer&animation=fadeIn&fontColor=fff&fontSize=60&fontAlign=40&fontAlignY=44&descSize=30&descAlign=30.5&descAlignY=17"/>
 </div>
 <!-- /HEARER -->
 <h1 align="center">My technology stack</h1>
